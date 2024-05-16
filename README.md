@@ -1,15 +1,8 @@
-# Code Sync - A Realtime Code Editor
+# CodeCollab - A Realtime Code Editor
 
-![Preview Image](./preview.png)
 
-Code Sync is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
-![GitHub License](https://img.shields.io/github/license/sahilatahar/Code-Sync?style=for-the-badge&color=e67234)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
+CodeCollab is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ## 🔮 Features
 
@@ -30,9 +23,7 @@ Code Sync is a collaborative, real-time code editor where users can seamlessly c
 -   🎨 Multiple themes for personalized coding experience
 -   🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time, enhancing the interactive experience of your project.
 
-## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
@@ -171,7 +162,7 @@ README.md
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
+    git clone https://github.com/ChaseAReid5/CodeCollab.git
     ```
 3. **Set .env file:**
    Inside the client and server directory, create or edit the .env file and add the following line:  
@@ -216,7 +207,7 @@ README.md
 
 ## 🤝 Contribute
 
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions to make CodeCollab even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌟 Support Us
 
@@ -238,27 +229,3 @@ Also, huge gratitude to Tldraw contributors for their amazing library. For more 
 -   [Tldraw Repository](https://github.com/tldraw/tldraw)
 -   [Tldraw Documentation](https://tldraw.dev/)
 
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <br/>
-        <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-        </td>
-    </tr>
-  </tbody>
-</table>
